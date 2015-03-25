@@ -1,0 +1,21 @@
+16S/ITS1 MARKER GENE SEQUENCING ANALYSIS GUIDE
+
+This repository contains sample R scripts and sample data from:
+
+Human Bacterial and Fungal Amplicon Collection and Processing for Sequencing
+
+Julia Oh
+
+Contact: julia0h.github@gmail.com
+
+
+A brief description of the contents:
+
+plottingTaxonomy/
+How to make compositional plots from mothur output
+
+plottingDiversity/
+How to make alpha diversity plots from mothur output
+
+plottingPCOA/
+How to make ordination plots from mothur output. 
